@@ -25,6 +25,7 @@ It allows admin/faculty to register, enroll, manage subjects, and view assessmen
 ---
 
 ## 🗂 Folder Structure Overview
+```bash
 MyProject/
 ├── backend/ ' DAO, Controller, and Model (Admin, Student, Faculty)
 ├── frontend/ ' Form Designer
@@ -32,6 +33,7 @@ MyProject/
 ├── resx/ ' .resx resource files (UI text, styles)
 ├── ProjectFiles/ ' .vbproj and solution config
 ├── README.md
+```
 
 
 ---
