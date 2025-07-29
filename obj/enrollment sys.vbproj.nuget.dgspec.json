@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Ryzen 3 3200G\\source\\repos\\enrollment sys\\enrollment sys\\enrollment sys.vbproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Ryzen 3 3200G\\source\\repos\\enrollment sys\\enrollment sys\\enrollment sys.vbproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ryzen 3 3200G\\source\\repos\\enrollment sys\\enrollment sys\\enrollment sys.vbproj",
+        "projectName": "enrollment sys",
+        "projectPath": "C:\\Users\\Ryzen 3 3200G\\source\\repos\\enrollment sys\\enrollment sys\\enrollment sys.vbproj",
+        "packagesPath": "C:\\Users\\Ryzen 3 3200G\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ryzen 3 3200G\\source\\repos\\enrollment sys\\enrollment sys\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\Ryzen 3 3200G\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.33, )"
+            },
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
